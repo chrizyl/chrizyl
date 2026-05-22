@@ -39,6 +39,3 @@ I am a computer and technology student focused on building strong foundations in
 ---
 
 Thanks for visiting my profile!
-
-Thanks for visiting my profile!
-* Email: abellachrizyl@gmail.com
