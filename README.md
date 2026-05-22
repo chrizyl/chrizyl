@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Chrizyl!
 
-<!--
-**chrizyl/chrizyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer and technology student focused on building strong foundations in software development, database management, and network architecture. I am passionate about applying core programming principles and systematic workflows to create clean, functional solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* Current student at the Polytechnic University of the Philippines.
+* Focused on developing skills in frontend design and development using tools like Figma.
+* Incorporating 3D design concepts and asset creation using Blender into frontend and UI/UX workflows.
+* Actively learning database management, specifically structured architecture and data dictionaries using MySQL.
+* Gaining foundational knowledge in data communication, network design, and CLI networking utilities.
+* Dedicated entry-level tech student continuously working to improve technical skills and engineering principles daily.
+
+---
+
+### Technical Skills and Tools
+
+* Languages: C++, JavaScript, Web Development basics
+* Databases and Administration: MySQL
+* Networking and Utilities: CLI tools (ping, tracert, getmac), Star Topology planning
+* UI/UX and 3D Design Workflow: Figma, Blender (3D modeling and asset creation)
+
+---
+
+### Projects
+
+* Simple Portfolio Website
+* soon
+
+---
+
+### Contact Information
+
+* GitHub: https://github.com/chrizyl
+* Email: abellachrizyl@gmail.com
+
+---
+
+Thanks for visiting my profile!
+
+Thanks for visiting my profile!
+* Email: abellachrizyl@gmail.com
