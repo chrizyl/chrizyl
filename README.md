@@ -38,4 +38,12 @@ I am a computer and technology student focused on building strong foundations in
 
 ---
 
+## Development Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrizyl&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
 Thanks for visiting my profile!
