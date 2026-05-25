@@ -7,41 +7,48 @@ I am a computer and technology student focused on building strong foundations in
 ### About Me
 
 * Current student at the Polytechnic University of the Philippines.
-* Focused on developing skills in frontend design and development using tools like Figma.
-* Incorporating 3D design concepts and asset creation using Blender into frontend and UI/UX workflows.
-* Actively learning database management, specifically structured architecture and data dictionaries using MySQL.
-* Gaining foundational knowledge in data communication, network design, and CLI networking utilities.
-* Dedicated entry-level tech student continuously working to improve technical skills and engineering principles daily.
+* UI/UX and Web Design: Focused on frontend workflows using Figma, incorporating 3D design concepts and asset creation using Blender.
+* Database Management: Actively learning structured architecture, constraints, and data dictionaries using MySQL.
+* Networking: Gaining foundational knowledge in data communication, network design (Star Topology), and CLI troubleshooting.
+* Growth Mindset: Dedicated entry-level tech student continuously working to improve technical skills and engineering principles daily.
 
 ---
 
 ### Technical Skills and Tools
 
-* Languages: C++, JavaScript, Web Development basics
-* Databases and Administration: MySQL
-* Networking and Utilities: CLI tools (ping, tracert, getmac), Star Topology planning
-* UI/UX and 3D Design Workflow: Figma, Blender (3D modeling and asset creation)
+| Category | Tools and Languages |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
+| **Design and UI/UX** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
 
 ---
 
 ### Projects
 
-* Simple Portfolio Website
-* soon
+#### AquaClinic
+* **Description:** A system development project focused on managing clinic operations, patient records, or service workflows. Designed with structured logic and database principles.
+* **Tech Stack:** MySQL, UI/UX Design, Development Basics (Update this based on actual stack)
+* **Links:** [Repository](https://github.com/chrizyl/YOUR-REPO-NAME-HERE)
+
+#### Clicket
+* **Description:** An application or web platform concept developed to streamline ticketing, events, or interface-driven transactions.
+* **Tech Stack:** Frontend Architecture, UI/UX Design (Update this based on actual stack)
+* **Links:** [Repository](https://github.com/chrizyl/YOUR-REPO-NAME-HERE)
 
 ---
 
 ### Contact Information
 
-* GitHub: https://github.com/chrizyl
-* Email: abellachrizyl@gmail.com
+* GitHub: [github.com/chrizyl](https://github.com/chrizyl)
+* Email: [abellachrizyl@gmail.com](mailto:abellachrizyl@gmail.com)
 
 ---
 
 ## Development Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrizyl&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrizyl&theme=dracula" alt="GitHub Streak" height="192px" />
 </p>
 
 ---
