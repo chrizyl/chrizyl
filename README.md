@@ -29,12 +29,12 @@ I am a computer and technology student focused on building strong foundations in
 #### AquaClinic
 * **Description:** A system development project focused on managing clinic operations, patient records, or service workflows. Designed with structured logic and database principles.
 * **Tech Stack:** MySQL, UI/UX Design, Development Basics (Update this based on actual stack)
-* **Links:** [Repository](https://github.com/chrizyl/YOUR-REPO-NAME-HERE)
+* **Links:** https://github.com/chrizyl/AquaSmile-Clinic.git
 
 #### Clicket
 * **Description:** An application or web platform concept developed to streamline ticketing, events, or interface-driven transactions.
 * **Tech Stack:** Frontend Architecture, UI/UX Design (Update this based on actual stack)
-* **Links:** [Repository](https://github.com/chrizyl/YOUR-REPO-NAME-HERE)
+* **Links:** https://github.com/jluigemalaiba/ClicKet.git
 
 ---
 
